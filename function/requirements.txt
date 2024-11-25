@@ -1,0 +1,2 @@
+jsonpickle
+boto3
