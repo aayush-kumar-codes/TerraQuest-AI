@@ -1,6 +1,0 @@
-function/package/*
-function/python/*
-.terraform/*
-.terraform
-*.zip
-layer/*
